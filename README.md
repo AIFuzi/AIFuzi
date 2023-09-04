@@ -1,4 +1,6 @@
-![til](./gifs/8642986.webp)
+![til](./gifs/walk-anime.gif)
+
+# Hi, Cyber Citizens 👋🏼
 
 ## MY SKILLS: 
 
