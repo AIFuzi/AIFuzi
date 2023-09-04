@@ -1,15 +1,3 @@
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        hr
-        {
-            color: red;
-        }
-    </style>
-</head>
-
-
 ## MY SKILLS: 
 
 <h3 align="center">Basic</h3>
@@ -38,7 +26,7 @@
 <h3 align="center">Desktop - C#</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,github,vim,vscode" />
+    <img src="https://skillicons.dev/icons?i=cs,wpf" />
   </a>
 </p>
 
