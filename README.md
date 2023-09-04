@@ -1,8 +1,10 @@
-![til](./gifs/purple-themed-anime-train-gif.gif)
+![til](./gifs/walk-anime.gif)
 
 # Hi, Cyber Citizens 👋🏼
 
-### About me
+## 🎓 About me
+
+I'm Gamedev and Desktop developer
 
 ## MY SKILLS: 
 
@@ -50,7 +52,7 @@
 </p>
 
 
-## MY STATS: 
+## 🔥 MY STATS: 
 
 <h3 align="center">My GitHUB Streak: </h3>
 
