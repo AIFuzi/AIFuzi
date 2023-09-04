@@ -19,14 +19,15 @@
 <h3 align="center">Desktop - Rust</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,tauri,react,js,ts" />
+    <img src="https://skillicons.dev/icons?i=rust,tauri,react,js,ts,html,css" />
   </a>
 </p>
 
 <h3 align="center">Desktop - C#</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,wpf" />
+    <img src="https://skillicons.dev/icons?i=cs" />
+    <img src="./assets/wpf.svg" />
   </a>
 </p>
 
