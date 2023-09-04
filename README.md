@@ -1,3 +1,10 @@
+<style>
+    hr
+    {
+        color: red;
+    }
+</style>
+
 ## MY SKILLS: 
 
 <h3 align="center">Basic</h3>
@@ -7,7 +14,7 @@
   </a>
 </p>
 
-<hr style="color: red;">
+<hr>
 
 <h3 align="center">Unreal Engine </h3>
 <p align="center">
