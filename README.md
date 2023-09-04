@@ -1,20 +1,30 @@
 ## MY SKILLS: 
 
-### Basic
-
+<h3 align="center">Basic</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vim,vscode" />
   </a>
 </p>
 
-## Unreal Engine 
-
-<h3 align="center">TEST</h3>
-
+<h3 align="center">Unreal Engine </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=urneal,cpp," />
+    <img src="https://skillicons.dev/icons?i=urneal,cpp" />
+  </a>
+</p>
+
+<h3 align="center">Desktop - Rust</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,tauri,react,js,ts" />
+  </a>
+</p>
+
+<h3 align="center">Desktop - C#</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,github,vim,vscode" />
   </a>
 </p>
 
