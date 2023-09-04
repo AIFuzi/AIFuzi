@@ -1,5 +1,13 @@
+## Бля хуй знает
 
-## MY STATS : 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
+
+## MY STATS: 
 
 My GitHUB Streak:
 
