@@ -1,6 +1,8 @@
 ![til](./gifs/walk-anime.gif)
 
-# Hi, Cyber Citizens 👋🏼
+<img src="./gifs/walk-anime.gif" align="center"/>
+
+# Hi, Citizens 👋🏼
 
 ## 🎓 About me
 
