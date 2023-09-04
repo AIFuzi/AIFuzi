@@ -1,3 +1,5 @@
+![til](./gifs/5927911.gif)
+
 ## MY SKILLS: 
 
 <h3 align="center">Basic</h3>
@@ -47,10 +49,6 @@
 ## MY STATS: 
 
 <h3 align="center">My GitHUB Streak: </h3>
-
-<div align="center">
-tre
-</div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AIFuzi&theme=transparent&border_radius=4&card_width=500&border=5F27CD&stroke=5F27CD&ring=1DD1A1B9&fire=1FE0AC&currStreakNum=1DD1A1&sideNums=F368E0&currStreakLabel=1DD1A1&sideLabels=FF9FF3&dates=FF6B81)](https://git.io/streak-stats)
 
