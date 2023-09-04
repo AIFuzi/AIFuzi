@@ -1,4 +1,4 @@
-![til](./gifs/5927911.gif)
+![til](./gifs/purple-themed-anime-train-gif.gif)
 
 # Hi, Cyber Citizens 👋🏼
 
