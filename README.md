@@ -1,7 +1,5 @@
 ![til](./gifs/walk-anime.gif)
 
-<img src="./gifs/walk-anime.gif" align="center"/>
-
 # Hi, Citizens 👋🏼
 
 ## 🎓 About me
