@@ -10,7 +10,7 @@
 <h3 align="center">Unreal Engine </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=urneal,cpp" />
+    <img src="https://skillicons.dev/icons?i=unreal,cpp" />
   </a>
 </p>
 
