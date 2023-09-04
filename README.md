@@ -6,7 +6,7 @@
 
 I'm Gamedev and Desktop developer
 
-## MY SKILLS: 
+## ⚔️ MY SKILLS: 
 
 <h3 align="center">Basic</h3>
 <p align="center">
