@@ -37,12 +37,12 @@
 
 ## MY STATS: 
 
-My GitHUB Streak:
+<h3 align="center">My GitHUB Streak: </h3>
 
-<h3 align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=AIFuzi&theme=transparent&border_radius=4&card_width=500&border=5F27CD&stroke=5F27CD&ring=1DD1A1B9&fire=1FE0AC&currStreakNum=1DD1A1&sideNums=F368E0&currStreakLabel=1DD1A1&sideLabels=FF9FF3&dates=FF6B81)](https://git.io/streak-stats)</h3>
+[![GitHub Streak](https://streak-stats.demolab.com?user=AIFuzi&theme=transparent&border_radius=4&card_width=500&border=5F27CD&stroke=5F27CD&ring=1DD1A1B9&fire=1FE0AC&currStreakNum=1DD1A1&sideNums=F368E0&currStreakLabel=1DD1A1&sideLabels=FF9FF3&dates=FF6B81)](https://git.io/streak-stats)
 
+<hr>
 
-
-My Language top:
+<h3 align="center">My GitHUB language stats: </h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AIFuzi&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
