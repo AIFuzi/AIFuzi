@@ -34,6 +34,15 @@
   </a>
 </p>
 
+<hr>
+
+<h3 align="center">Other</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,cmake,blender,figma" />
+  </a>
+</p>
+
 
 ## MY STATS: 
 
