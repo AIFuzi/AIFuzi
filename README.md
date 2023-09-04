@@ -1,7 +1,9 @@
 
+## MY STATS : 
+
 My GitHUB Streak:
 
-[![Github streak](https://streak-stats.demolab.com?user=AIFuzi&theme=burnt-neon&border_radius=30&card_width=500&type=png)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AIFuzi&theme=transparent&border_radius=4&card_width=500&border=5F27CD&stroke=5F27CD&ring=1DD1A1B9&fire=1FE0AC&currStreakNum=1DD1A1&sideNums=F368E0&currStreakLabel=1DD1A1&sideLabels=FF9FF3&dates=FF6B81)](https://git.io/streak-stats)
 
 My Language top:
 
