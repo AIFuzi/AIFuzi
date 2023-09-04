@@ -7,4 +7,4 @@ My GitHUB Streak:
 
 My Language top:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AIFuzi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AIFuzi&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
