@@ -1,6 +1,6 @@
 ## MY SKILLS: 
 
-# Basic
+# [h3]Basic
 
 <p align="center">
   <a href="https://skillicons.dev">
