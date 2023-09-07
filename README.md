@@ -36,37 +36,36 @@ I'm Gamedev and Desktop developer
       <br>github
     </td> 
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Git" />
-      <br>Arduino
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Git" />
+      <br>Figma
     </td>
   </tr>
-  SSS
   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
+        <img src="https://skillicons.dev/icons?i=vim" width="48" height="48" alt="HTML" />
+      <br>NeoVim
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+        <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="tailwind" />
+      <br>Rust
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tauri" width="48" height="48" alt="css" />
+      <br>Tauri
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="jquery" />
+      <br>HTML
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="jquery" />
       <br>CSS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
-      <br>JQuery
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
-      <br>PostgreSQL
-    </td>
-            <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
       <br>ASP.NET
     </td>
