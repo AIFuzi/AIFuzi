@@ -72,20 +72,20 @@ I'm Gamedev and Desktop developer
   </tr>
    <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
+        <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Redis" />
+      <br>Arduino
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Postman" />
+      <br>NextJS
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
-      <br>Dart
+        <img src="https://skillicons.dev/icons?i=unreal" width="48" height="48" alt="dart" />
+      <br>Unreal Engine
     </td>
   </tr>
  <tr>
