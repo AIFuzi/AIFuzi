@@ -135,4 +135,4 @@ I'm Gamedev and Desktop developer
   <img src="https://wakatime.com/share/@dc77cb55-4864-4bb0-9455-0de80d3420a4/15deae2b-eee1-496d-a8ae-f523529e2b7f.svg">
 </details>
 
-<img data-target="animated-image.replacedImage" alt="tyan.gif" class="AnimatedImagePlayer-animatedImage" src="./gifs/0a5b4f4c03e1f1a73732d4caac3f8a37.gif" style="display: block; opacity: 1;">
+![til](./gifs/0a5b4f4c03e1f1a73732d4caac3f8a37.gif)
