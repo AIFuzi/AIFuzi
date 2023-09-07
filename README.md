@@ -105,14 +105,15 @@ I'm Gamedev and Desktop developer
 </table>
 
 
-## 🔥 MY STATS: 
+## 📊 MY GITHUB STATS: 
+
+<summary>GitHub Profile Stats 💻</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rzashakeri's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=rzashakeri&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rzashakeri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzashakeri&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
 
 <h3 align="center">My GitHUB Streak: </h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AIFuzi&theme=transparent&border_radius=4&card_width=500&border=5F27CD&stroke=5F27CD&ring=1DD1A1B9&fire=1FE0AC&currStreakNum=1DD1A1&sideNums=F368E0&currStreakLabel=1DD1A1&sideLabels=FF9FF3&dates=FF6B81)](https://git.io/streak-stats)
 
-<hr>
-
-<h3 align="center">My GitHUB language stats: </h3>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AIFuzi&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
