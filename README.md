@@ -11,6 +11,10 @@ I'm Gamedev and Desktop developer
 > Tools and technologies that I have worked with and am interested in
 
 <table>
+<td align="center" width="96">
+        <h3>HELLO</h3>
+      <br>C#
+    </td>
   <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
@@ -18,11 +22,11 @@ I'm Gamedev and Desktop developer
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TS
+      <br>TypeScript
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JS
+      <br>JavaScript
     </td>   
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
