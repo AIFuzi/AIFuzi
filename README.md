@@ -10,7 +10,7 @@ I'm Gamedev and Desktop developer
 
 > Tools and technologies that I have worked with and am interested in
 
-<table>
+<table align="center">
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
       <br>C#
