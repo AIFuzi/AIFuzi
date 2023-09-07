@@ -85,7 +85,19 @@ I'm Gamedev and Desktop developer
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=unreal" width="48" height="48" alt="dart" />
-      <br>Unreal Engine
+      <br>Unreal 5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="dart" />
+      <br>Postgresql
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="dart" />
+      <br>NodeJS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="dart" />
+      <br>MongoDB
     </td>
   </tr>
  <tr>
