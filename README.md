@@ -119,7 +119,18 @@ I'm Gamedev and Desktop developer
 
 [![AIFuzi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AIFuzi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h3 align="center">My GitHUB Streak: </h3>
+<h3>My GitHUB Streak 🔥</h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AIFuzi&theme=transparent&border_radius=4&card_width=500&border=5F27CD&stroke=5F27CD&ring=1DD1A1B9&fire=1FE0AC&currStreakNum=1DD1A1&sideNums=F368E0&currStreakLabel=1DD1A1&sideLabels=FF9FF3&dates=FF6B81)](https://git.io/streak-stats)
 
+
+<details>
+  <summary>Wakatime ⏳</summary>
+  <br/>
+  <img src="https://wakatime.com/share/@dc77cb55-4864-4bb0-9455-0de80d3420a4/1da5ea16-5bcb-480f-bbf7-5d2c24f72e18.svg">
+  <br/>
+  <br/>
+  <br/>
+
+  <img src="https://wakatime.com/share/@dc77cb55-4864-4bb0-9455-0de80d3420a4/15deae2b-eee1-496d-a8ae-f523529e2b7f.svg">
+</details>
