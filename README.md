@@ -40,6 +40,7 @@ I'm Gamedev and Desktop developer
       <br>Arduino
     </td>
   </tr>
+  SSS
   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
