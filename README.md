@@ -107,10 +107,10 @@ I'm Gamedev and Desktop developer
 
 ## 📊 MY GITHUB STATS: 
 
-<summary>GitHub Profile Stats 💻</summary>
+<h3>GitHub Profile Stats 💻</h3>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rzashakeri's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=rzashakeri&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rzashakeri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzashakeri&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AlFuzi's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=AIFuzi&show_icons=true&count_private=true&theme=synthwave" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AlFuzi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIFuzi&langs_count=8&layout=compact&theme=synthwave" height="192px"/></a>
   <br/>
 
 <h3 align="center">My GitHUB Streak: </h3>
