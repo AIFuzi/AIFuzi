@@ -11,11 +11,6 @@ I'm Gamedev and Desktop developer
 > Tools and technologies that I have worked with and am interested in
 
 <table>
-<td align="center" width="96">
-        <h3>HELLO</h3>
-      <br>C#
-    </td>
-  <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
       <br>C#
@@ -40,6 +35,10 @@ I'm Gamedev and Desktop developer
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>github
     </td> 
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Git" />
+      <br>Arduino
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
