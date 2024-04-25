@@ -127,7 +127,7 @@ I'm Gamedev and Desktop developer
 <details>
   <summary>Wakatime ⏳</summary>
   <br/>
-  <img src="https://wakatime.com/share/@dc77cb55-4864-4bb0-9455-0de80d3420a4/761477e5-4ea6-42a0-84d4-3660d3d054b6.svg">
+  <img src="https://wakatime.com/share/@dc77cb55-4864-4bb0-9455-0de80d3420a4/24498ca9-4221-4aed-ad96-90f5b41a5f48.svg">
   <br/>
   <br/>
   <br/>
