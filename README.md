@@ -80,7 +80,7 @@ I'm Gamedev and Desktop developer
       <br>NextJS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Linux" />
       <br>Linux
     </td>
     <td align="center" width="96">
