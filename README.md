@@ -81,7 +81,7 @@ I'm Gamedev and Desktop developer
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Linux" />
-      <br>Linux
+      <br>Go
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=unreal" width="48" height="48" alt="dart" />
