@@ -46,7 +46,7 @@ I'm Gamedev and Desktop developer
       <br>Git
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=vim" width="48" height="48" alt="HTML" />
+        <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="HTML" />
       <br>NeoVim
     </td>
     <td align="center" width="96">
@@ -66,7 +66,7 @@ I'm Gamedev and Desktop developer
       <br>CSS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Git" />
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Git" />
       <br>Figma
     </td>
   </tr>
