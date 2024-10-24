@@ -47,7 +47,7 @@ I'm Gamedev and Desktop developer
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="HTML" />
-      <br>NeoVim
+      <br>Kafka
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="tailwind" />
@@ -67,13 +67,13 @@ I'm Gamedev and Desktop developer
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Git" />
-      <br>Figma
+      <br>Redis
     </td>
   </tr>
    <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Redis" />
-      <br>Arduino
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Redis" />
+      <br>Docker
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Postman" />
