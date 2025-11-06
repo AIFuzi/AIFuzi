@@ -50,8 +50,8 @@ I'm Gamedev and Web developer
       <br>Kafka
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="tailwind" />
-      <br>Rust
+        <img src="https://skillicons.dev/icons?i=pinia" width="48" height="48" alt="tailwind" />
+      <br>Pinia
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="css" />
