@@ -12,32 +12,32 @@ I'm Gamedev and Web developer
 
 <table align="center">
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=cs" alt="icon" width="65" height="65" />
       <br>C#
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=ts" alt="icon" width="65" height="65" />
       <br>TypeScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=js" alt="icon" width="65" height="65" />
       <br>JavaScript
     </td>   
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=cpp" alt="icon" width="65" height="65" />
       <br>C++
     </td> 
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=react" alt="icon" width="65" height="65" />
       <br>React
     </td> 
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=github" alt="icon" width="65" height="65" />
       <br>GitHUB
     </td> 
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-      <br>Rest API
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="icon" width="65" height="65" />
+      <br>Tailwind
     </td> 
   </tr>
   <tr>
