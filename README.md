@@ -1,10 +1,10 @@
-![til](./gifs/5927911.gif)
+![til](./gifs/bg.gif)
 
 # Hi, Citizens 👋🏼
 
 ## 🎓 About me
 
-I'm Gamedev and Desktop developer
+I'm Gamedev and Web developer
 
 ## ⚙️ MY SKILLS: 
 
@@ -54,8 +54,8 @@ I'm Gamedev and Desktop developer
       <br>Rust
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tauri" width="48" height="48" alt="css" />
-      <br>Tauri
+        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="css" />
+      <br>Vue
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="jquery" />
@@ -72,8 +72,8 @@ I'm Gamedev and Desktop developer
   </tr>
    <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Redis" />
-      <br>Docker
+        <img src="https://skillicons.dev/icons?i=nuxtjs" width="48" height="48" alt="Redis" />
+      <br>NuxtJs
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Postman" />
@@ -119,20 +119,5 @@ I'm Gamedev and Desktop developer
 
 [![AIFuzi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AIFuzi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h3>My GitHUB Streak 🔥</h3>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AIFuzi&theme=transparent&border_radius=4&card_width=500&border=5F27CD&stroke=5F27CD&ring=1DD1A1B9&fire=1FE0AC&currStreakNum=1DD1A1&sideNums=F368E0&currStreakLabel=1DD1A1&sideLabels=FF9FF3&dates=FF6B81)](https://git.io/streak-stats)
-
-
-<details>
-  <summary>Wakatime ⏳</summary>
-  <br/>
-  <img src="https://wakatime.com/share/@dc77cb55-4864-4bb0-9455-0de80d3420a4/24498ca9-4221-4aed-ad96-90f5b41a5f48.svg">
-  <br/>
-  <br/>
-  <br/>
-
-  <img src="https://wakatime.com/share/@dc77cb55-4864-4bb0-9455-0de80d3420a4/15deae2b-eee1-496d-a8ae-f523529e2b7f.svg">
-</details>
 
 ![til](./gifs/5LYzTBVoS196gvYvw3zjwHQ23nYQP3Xdqds56ChX-RQ.gif)
