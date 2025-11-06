@@ -66,14 +66,14 @@ I'm Gamedev and Web developer
       <br>CSS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Git" />
-      <br>Redis
+        <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="Git" />
+      <br>NestJS
     </td>
   </tr>
    <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nuxtjs" width="48" height="48" alt="Redis" />
-      <br>NuxtJs
+      <br>NuxtJS
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Postman" />
