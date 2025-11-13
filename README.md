@@ -33,12 +33,12 @@ I'm Gamedev and Web developer
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
+      <img src="https://skillicons.dev/icons?i=gql" width="48" height="48" alt="GraphQL" />
+      <br>GraphQL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br>CSS
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
     </td>
   </tr>
 
