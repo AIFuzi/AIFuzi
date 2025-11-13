@@ -79,8 +79,8 @@ I'm Gamedev and Web developer
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br>Redis
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" />
