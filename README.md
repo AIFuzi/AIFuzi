@@ -121,4 +121,4 @@ I'm Gamedev and Web developer
 [![AIFuzi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AIFuzi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-![til](./gifs/5LYzTBVoS196gvYvw3zjwHQ23nYQP3Xdqds56ChX-RQ.gif)
+![til](./gifs/28fu3vahl5tf1.gif)
